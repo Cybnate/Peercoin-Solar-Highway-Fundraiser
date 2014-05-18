@@ -25,7 +25,7 @@ Fundraising is to obtain one (target) or more (stretch-target) of the $500 perks
 
 Details:
 
--	We assume PPC/US$ rate of $2,00 to be on safe side. First target is 250 PPC. 
+-	We assume PPC/US$ rate of $2.00 to be on safe side. First target is 250 PPC. 
 -	First stretch target is 50 PPC for the 30 second ‘Thank you video’ where we can include some specific message from the Peercoin community if desired. Suggestions for this text need to be submitted by email at the same time as the contribution. The proposed text needs to be determined in the peercointalk thread for this fundraiser.
 The video will be send to us asap and can be used in social media.
 -	Further stretch targets are another 250 PPC for mounting hole covers.
