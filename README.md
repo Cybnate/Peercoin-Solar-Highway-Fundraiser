@@ -19,6 +19,7 @@ Scope of fundraising Peercoin community:
 Fundraising is to obtain one (target) or more (stretch-target) of the $500 perks as a community. With that perk we earn the right to have a text engraved onto the mounting hole covers of the panels on the demo solar parking lot. We will also get some pictures which we can use for future marketing. With a bit of luck the Indiegogo project will also get a bit of press coverage which we might be able to leverage upon depending on out contribution.
 
 Details:
+
 -	We assume PPC/US$ rate of $2,00 to be on safe side. First target is 250 PPC. 
 -	First stretch target is 50 PPC for the 30 second ‘Thank you video’ where we can include some specific message from the Peercoin community if desired. Suggestions for this text need to be submitted by email at the same time as the contribution. The proposed text needs to be determined in the peercointalk thread for this fundraiser.
 The video will be send to us asap and can be used in social media.
@@ -28,9 +29,11 @@ The video will be send to us asap and can be used in social media.
 -	The proposal is to have Peercoin engraved or if possible the Peercoin logo and the name Peercoin. Other special requests can be discussed in the peercointalk thread for this fundraiser
 -	Any remaining funds will go to the project as general contribution under the “Thank you’ perk.
 
-Release of funds
+Release of funds:
+
 The release of funds will be through peer4commit.com by manually draining the fund.
-Given the current restraints on peer4commit.com of releasing the total fund or larger than 5% chunks of it, the project maintainer have to manually drain the fund with multiple transactions in Peer4commit before transferring it as one payment. A temporary Peercoin wallet will be created for this purpose. From the temporary Peercoin wallet the Peercoins will be exchanged into fiat as that is the only method of payment accepted. 
-Any remaining raised funds which still exist after the Indiegogo fundraiser closed will be transferred to the peerunity project on peer4commit.com. This may happen when the value of Peercoin increases in the time between the fundraiser closing and the transfer of the funds.
+Given the current restraints on peer4commit.com of releasing the total fund or larger than 5% chunks of it, the project maintainer have to manually drain the fund with multiple transactions in Peer4commit before transferring it as one payment. The payment will be transferred to an address of the chosen exchange. From here on they are converted into fiat as that is the only method of payment accepted. 
+Any remaining raised funds which still exist or a reason after the Indiegogo fundraiser closed will be transferred to the peerunity project on peer4commit.com. This may happen when the value of Peercoin increases in the time between the fundraiser closing and the transfer of the funds or the funds haven’t been transferred in time.
 Any questions can be posted on peercointalk.org or raised as an issue on the repo on Github.
 The project maintainer will try to respond questions within 48 hours or indicate that an answer is underway but might take a bit more time. 
+
