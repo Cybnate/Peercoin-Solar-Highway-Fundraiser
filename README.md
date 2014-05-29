@@ -9,6 +9,9 @@ Details of the Indiegogo project can be found here: https://www.indiegogo.com/pr
 
 Donation address: PVkhHGewJug4zy6PGzhuKxaCjgm4LbfQaS or check out http://peer4commit.com/projects/88
 
+29/4 Target (250 PPC) and steretch target (another 50 PPC) are met. Funds have been transferred to personal account to be donated to Indiegogo Solar Roadways fundraiser (as below). A specific Peercoin community account will be created on Indiegogo for this fundraiser. Proof will be postend on the Peercointalk fundrasing theread.
+Again to everybody who supported this either with Peercoins or morally, thank you!
+
 
 Project overview:
 
